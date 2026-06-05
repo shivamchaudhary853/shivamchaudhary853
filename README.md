@@ -1,13 +1,14 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║  ░░░░░░  ░░   ░░  ░░  ░░  ░░░░░  ░░░    ░░░                     ║
-║  ▒▒      ▒▒   ▒▒  ▒▒  ▒▒  ▒▒▒▒   ▒▒▒▒  ▒▒▒▒                     ║
-║  ▒▒▒▒▒   ▒▒▒▒▒▒▒  ▒▒  ▒▒  ▒▒ ▒▒  ▒▒ ▒▒▒▒ ▒▒   Java Backend Dev  ║
-║  ▓▓      ▓▓   ▓▓  ▓▓  ▓▓  ▓▓ ▓▓  ▓▓  ▓▓  ▓▓   Spring · Kafka    ║
-║  ██████  ██   ██  ██  ██  █████  ██      ██   Redis  · AWS       ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║  ░██████╗██╗░░██╗██╗██╗░░░██╗░█████╗░███╗░░░███╗                   ║
+║  ██╔════╝██║░░██║██║╚██╗░██╔╝██╔══██╗████╗░████║                   ║
+║  ╚█████╗░███████║██║░╚████╔╝░███████║██╔████╔██║  Java Backend Dev  ║
+║  ░╚═══██╗██╔══██║██║░░╚██╔╝░░██╔══██║██║╚██╔╝██║  Spring · Kafka   ║
+║  ██████╔╝██║░░██║██║░░░██║░░░██║░░██║██║░╚═╝░██║  Redis  · AWS     ║
+║  ╚═════╝░╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░░░╚═╝                   ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=680&lines=Java+%7C+Spring+Boot+%7C+Kafka+%7C+Redis+%7C+AWS;Building+scalable+event-driven+backends+%F0%9F%94%A7;JWT+Auth+%7C+Microservices+%7C+REST+APIs;E-Wallet+%26+Booking+Systems+—+shipped+%26+secured+%F0%9F%9A%80;Intern+%40+GeeksForGeeks+%7C+AKTU+CSE+%272026)](https://git.io/typing-svg)
@@ -116,49 +117,6 @@ public class ShivamChaudhary {
 
 STATUS: Completed | IMPACT: Production-grade systems shipped
 ```
-
-<br/>
-
-## `$ ls /projects`
-
-<details>
-<summary><b>E-Wallet Application</b> &nbsp;—&nbsp; <code>click to expand</code></summary>
-
-<br/>
-
-```
-Stack: Java · Spring Boot · Spring Security · Spring Data JPA
-       Apache Kafka · Redis · MySQL · JavaMail
-```
-
-| Feature | Implementation |
-|---|---|
-| Auth | JWT-based login + OTP email verification via JavaMail |
-| Security | Spring Security + RBAC for user & admin roles |
-| Core | Registration, KYC-style OTP flow, balance mgmt, fund transfer |
-| Async | Kafka producers/consumers for transaction & notification events |
-| Cache | Redis for wallet balance + session data (reduced MySQL load) |
-| DB | Normalized MySQL schema with JPA/Hibernate ORM mappings |
-
-</details>
-
-<details>
-<summary><b>Movie Ticket Booking System</b> &nbsp;—&nbsp; <code>click to expand</code></summary>
-
-<br/>
-
-```
-Stack: Java · Spring Boot · Spring Security · Spring Data JPA · MySQL
-```
-
-| Feature | Implementation |
-|---|---|
-| Core | Movies, theatres, show schedules, seat inventory, bookings |
-| Auth | JWT-based login + Spring Security access control |
-| Concurrency | Real-time seat availability + double-booking prevention |
-| DB | Normalized relational schema with JPA/Hibernate mappings |
-
-</details>
 
 <br/>
 
